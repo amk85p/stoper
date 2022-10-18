@@ -10,4 +10,4 @@ const Button = (props) => {
 
 export default Button;
 
-// {/* <button className={styles.button}>Search</button> */}
+
